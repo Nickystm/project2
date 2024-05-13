@@ -52,5 +52,9 @@
 
 <img width="657" alt="image" src="https://github.com/Nickystm/ptz2/assets/167700874/bf54de38-6b7c-45d8-bede-3f5c15e5d0ef">
 
-[![Tests](https://github.com/Nickystm/project2/actions/workflows/tests.yml/badge.svg)](https://github.com/Nickystm/project2/actions/workflows/tests.yml)
+### Чтобы запустить тесты в ручном режиме, необходимо:
+1. Нажать на иконку справа или перейти в Action.
+    [![Tests](https://github.com/Nickystm/project2/actions/workflows/tests.yml/badge.svg)](https://github.com/Nickystm/project2/actions/workflows/tests.yml)
+2. Нажать на Java CI.
+3. Запустить Run workflow.
 
