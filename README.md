@@ -55,6 +55,6 @@
 ### Чтобы запустить тесты в ручном режиме, необходимо:
 1. Нажать на иконку справа или перейти в Action.
     [![Tests](https://github.com/Nickystm/project2/actions/workflows/tests.yml/badge.svg)](https://github.com/Nickystm/project2/actions/workflows/tests.yml)
-2. Нажать на Java CI.
-3. Запустить Run workflow.
+3. Нажать на Java CI.
+4. Запустить Run workflow.
 
