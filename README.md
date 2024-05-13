@@ -15,6 +15,20 @@
 1. Создадим файл (tftz1) и заполним его числами через пробел (5 3 2 7 6).
 2. Откроем "Терминал" и запустим работу программы по инстгрукции выше.
   * Сумма:
+    
+    <img width="330" alt="image" src="https://github.com/Nickystm/project2/assets/167700874/972d7683-d808-4731-9cc7-7287ce346a56">
+
+  * Минимум:
+   
+    <img width="330" alt="image" src="https://github.com/Nickystm/project2/assets/167700874/593e0098-dd11-4c91-bc33-7ac7f1cdf5e2">
+
+  * Максимум:
+
+    <img width="330" alt="image" src="https://github.com/Nickystm/project2/assets/167700874/f6323c33-3b76-4b58-808f-b352d7abb48a">
+
+  * Произведение:
+
+    <img width="333" alt="image" src="https://github.com/Nickystm/project2/assets/167700874/33589c5a-375d-4832-9f6b-0709c0b46b5d">
 
 ### Как запустить Ctz(проверка корректности работы функций)
 1. Необходимо установить Maven.
